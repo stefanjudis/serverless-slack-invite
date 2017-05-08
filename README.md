@@ -33,7 +33,7 @@ Deploy it with [an access token](https://get.slack.help/hc/en-us/articles/215770
 $ SLACK_TOKEN=slack_token SUB_DOMAIN=slack_subdomain serverless deploy
 ```
 
-And you're done. The deployment will tell you where your new serverless endpoint will be located.
+And you're done. The deployment will tell you where your new serverless endpoint will be located so that you can use it via Ajax.
 
 ## Usage via JavaScript
 
