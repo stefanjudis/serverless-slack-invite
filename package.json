@@ -1,0 +1,26 @@
+{
+  "name": "serverless-slack-invite-serverless",
+  "version": "1.0.0",
+  "description": "A quick and dirty serverless solution to invite users to your Slack org Edit",
+  "main": "handler.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanjudis/serverless-slack-invite.git"
+  },
+  "keywords": [
+    "Slack",
+    "Serverless"
+  ],
+  "author": "stefan judis <stefanjudis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanjudis/serverless-slack-invite/issues"
+  },
+  "homepage": "https://github.com/stefanjudis/serverless-slack-invite#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
