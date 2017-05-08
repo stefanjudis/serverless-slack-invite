@@ -27,7 +27,7 @@ $ git clone git@github.com:stefanjudis/serverless-slack-invite.git
 $ cd serverless-slack-invite
 ```
 
-Deploy it with tokens for slack. :tada:
+Deploy it with [an access token](https://get.slack.help/hc/en-us/articles/215770388-Creating-and-regenerating-API-tokens) and your organization sub domain for slack. :tada:
 
 ```bash
 $ SLACK_TOKEN=slack_token SUB_DOMAIN=slack_subdomain serverless deploy
